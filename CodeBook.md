@@ -1,4 +1,4 @@
-The CodeBook includes the following informatio:
+The CodeBook includes the following information:
 =========================================
 
 Variables Definition and Transformation Information:
